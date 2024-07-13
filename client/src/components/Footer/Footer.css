@@ -1,0 +1,15 @@
+.footer {
+    background-color: rgba(0, 0, 0, 0.9);
+    border-top:2px solid #d93134;
+}
+
+.footer p {
+    color: #fff; 
+}
+
+@media (max-width: 576px) {
+.footer {
+    padding: 10px 0;
+}
+}
+  

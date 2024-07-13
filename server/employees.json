@@ -1,0 +1,18 @@
+{
+  "employees": [
+    {
+      "id": "1a72",
+      "name": "Santhosh Kumar",
+      "email": "e.kathiravan@vectone.com",
+      "mobile": "9655120124",
+      "jobRole": "Software Eng2"
+    },
+    {
+      "id": "1a72",
+      "name": "sundar",
+      "email": "kathir.kmr52@gmail.com",
+      "mobile": "9095133106",
+      "jobRole": "Software Eng1"
+    }
+  ]
+}
